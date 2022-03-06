@@ -1,0 +1,18 @@
+[
+  {
+    "model_used": true,
+    "prediction": [
+      "sticker",
+      "package printed"
+    ],
+    "uuid": "iWSX2hdyLLRa5KMSBGQmn1APMndif9W3EhPF0gvYyDc"
+  },
+  {
+    "model_used": true,
+    "prediction": [
+      "sticker",
+      "package printed"
+    ],
+    "uuid": "khiiSmuGwiTN8-TUxkIZKkxIq0hyt3XIG6B2vkcQY5Q"
+  }
+]
